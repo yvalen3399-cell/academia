@@ -1,5 +1,3 @@
-package academia.modelo;
-
 /**
  * CLASE ABSTRACTA Persona
  *
