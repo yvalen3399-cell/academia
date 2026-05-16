@@ -1,5 +1,3 @@
-package academia.modelo;
-
 import java.util.LinkedList;
 
 /**
